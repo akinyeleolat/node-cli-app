@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "test cli",
+      "complete": false
+    },
+    {
+      "title": "test lowdb",
+      "complete": true
+    },
+    {
+      "title": "test cki",
+      "complete": false
+    }
+  ]
+}
